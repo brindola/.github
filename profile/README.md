@@ -43,6 +43,12 @@ Several venues, several brands, central menus and a backoffice of your own: Brin
 
 **[Try Brindola free](https://brindola.com/)** — no card needed. Install it on a PC, answer a few questions about your venue, and take your first order in minutes. The [getting-started guide](https://brindola.com/en/getting-started/) and the [FAQ](https://brindola.com/en/faq/) cover the rest.
 
+## Get in touch
+
+- **Sales, partnerships and feature ideas:** [hello@brindola.com](mailto:hello@brindola.com)
+- **Support and bug reports:** [support@brindola.com](mailto:support@brindola.com)
+- **Security:** [security@brindola.com](mailto:security@brindola.com), see our [security policy](https://github.com/brindola/.github/blob/main/SECURITY.md)
+
 ---
 
 <sub>Brindola is published by Pliu AB, Sweden.</sub>
