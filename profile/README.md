@@ -28,7 +28,7 @@
 - **Several brands, one kitchen.** Multi-brand is built in: per-brand menus and tabs on the same terminal, and every report split by brand and channel. Made for dark kitchens and restaurant groups.
 - **Reporting on the device.** Day, sales, staff, trends and service times — kitchen speed, table turns, peak occupancy — read from the venue's own data, with nothing leaving the building.
 - **Built for the whole business.** Inventory and recipes, purchasing, customers and customer groups, reservations, price lists, cameras on the floor plan, receipts and kitchen tickets on ordinary network printers.
-- **Your hardware.** Windows and Linux PCs with touch screens, Android phones and tablets from [Google Play](https://brindola.com/en/app/), and the receipt printers, cash drawers and scanners a venue already has.
+- **Your hardware.** Windows and Linux PCs with touch screens, Android phones and tablets from [Google Play](https://play.google.com/store/apps/details?id=com.brindola.pos), iPhones from the [App Store](https://apps.apple.com/app/brindola-pos/id6821974530), and the receipt printers, cash drawers and scanners a venue already has.
 - **Speaks your staff's language.** 27 languages, right-to-left included, with money and dates in each market's own format.
 
 ## Made for every kind of venue
