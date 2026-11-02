@@ -23,12 +23,12 @@
 ## Why venues choose Brindola
 
 - **Offline is the normal case.** The venue's own database is the record of truth, not a cache of someone else's cloud. Orders, the kitchen, payments and the cash drawer all keep running when the connection drops — nothing waits for a server on the other side of the world.
-- **One system, every screen.** Order entry, a floor plan with tables, a station-routed kitchen display, a pickup board, a guest-facing order display, and staff phones and tablets — all live on the venue's own network, all in sync.
+- **One system, every screen.** Order entry, a floor plan with tables, a station-routed kitchen display, a pickup board and a guest-facing order display (on a Google TV on the wall, too), and staff phones and tablets — all live on the venue's own network, all in sync.
 - **Delivery straight into the kitchen.** Bolt Food and Glovo orders land on the terminal with an accept countdown and go to the kitchen display untouched by hand. No extra tablet on the counter, no retyping.
 - **Several brands, one kitchen.** Multi-brand is built in: per-brand menus and tabs on the same terminal, and every report split by brand and channel. Made for dark kitchens and restaurant groups.
 - **Reporting on the device.** Day, sales, staff, trends and service times — kitchen speed, table turns, peak occupancy — read from the venue's own data, with nothing leaving the building.
 - **Built for the whole business.** Inventory and recipes, purchasing, customers and customer groups, reservations, price lists, cameras on the floor plan, receipts and kitchen tickets on ordinary network printers.
-- **Your hardware.** Windows and Linux PCs with touch screens, Android phones and tablets from [Google Play](https://play.google.com/store/apps/details?id=com.brindola.pos), iPhones from the [App Store](https://apps.apple.com/app/brindola-pos/id6821974530), and the receipt printers, cash drawers and scanners a venue already has.
+- **Your hardware.** Windows and Linux PCs with touch screens, Android phones and tablets from [Google Play](https://play.google.com/store/apps/details?id=com.brindola.pos), iPhones from the [App Store](https://apps.apple.com/app/brindola-pos/id6821974530), Google TV and Android TV as the pickup board or the guest display, set up with the remote, and the receipt printers, cash drawers and scanners a venue already has.
 - **Speaks your staff's language.** 27 languages, right-to-left included, with money and dates in each market's own format.
 
 ## Made for every kind of venue
