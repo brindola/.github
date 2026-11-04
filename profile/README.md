@@ -29,6 +29,7 @@
 - **Reporting on the device.** Day, sales, staff, trends and service times — kitchen speed, table turns, peak occupancy — read from the venue's own data, with nothing leaving the building.
 - **Built for the whole business.** Inventory and recipes, purchasing, customers and customer groups, reservations, price lists, cameras on the floor plan, receipts and kitchen tickets on ordinary network printers.
 - **Your hardware.** Windows and Linux PCs with touch screens, Android phones and tablets from [Google Play](https://play.google.com/store/apps/details?id=com.brindola.pos), iPhones from the [App Store](https://apps.apple.com/app/brindola-pos/id6821974530), Google TV and Android TV as the pickup board or the guest display, set up with the remote, and the receipt printers, cash drawers and scanners a venue already has.
+- **No computer needed.** From the next release an Android tablet can run the venue itself — the counter, its records and every screen around it — with backups to a folder off the device and updates that wait until the day is closed.
 - **Speaks your staff's language.** 27 languages, right-to-left included, with money and dates in each market's own format.
 
 ## Made for every kind of venue
