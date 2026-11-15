@@ -30,7 +30,7 @@
 - **Loyalty that brings guests back.** Stamp cards, points and visits, tiers with a standing discount, balances that expire oldest first, and every guest's balance on the receipt — with a QR code to their own page and one balance across a group's venues when it shares them through its backoffice.
 - **Hours on the clock.** Staff clock in and out with their PIN, managers correct a shift with the history kept, and tips are split by the hours worked.
 - **Built for the whole business.** Inventory and recipes, purchasing, customers and customer groups, loyalty, a time clock, reservations, price lists, cameras on the floor plan, receipts and kitchen tickets on ordinary network printers.
-- **Your hardware.** Windows and Linux PCs with touch screens, Android phones and tablets from [Google Play](https://play.google.com/store/apps/details?id=com.brindola.pos), iPhones from the [App Store](https://apps.apple.com/app/brindola-pos/id6821974530), Google TV and Android TV as the pickup board or the guest display, set up with the remote, and the receipt printers, cash drawers and scanners a venue already has.
+- **Your hardware.** Windows and Linux PCs with touch screens, Macs, Android phones and tablets from [Google Play](https://play.google.com/store/apps/details?id=com.brindola.pos), iPhones from the [App Store](https://apps.apple.com/app/brindola-pos/id6821974530), Google TV and Android TV as the pickup board or the guest display, set up with the remote, and the receipt printers, cash drawers and scanners a venue already has.
 - **No computer needed.** An Android tablet or phone can run the venue itself — the counter, its records and every screen around it — with encrypted backups to a folder or USB stick off the device and updates that wait until the day is closed.
 - **Speaks your staff's language.** 31 languages, right-to-left included, with money and dates in each market's own format.
 
@@ -44,7 +44,7 @@ Several venues, several brands, central menus and a backoffice of your own: Brin
 
 ## Get started
 
-**[Try Brindola free](https://brindola.com/)** — no card needed. Install it on a PC or an Android tablet, answer a few questions about your venue, and take your first order in minutes. The [getting-started guide](https://brindola.com/en/getting-started/) and the [FAQ](https://brindola.com/en/faq/) cover the rest.
+**[Try Brindola free](https://brindola.com/)** — no card needed. Install it on a PC, a Mac or an Android tablet, answer a few questions about your venue, and take your first order in minutes. The [getting-started guide](https://brindola.com/en/getting-started/) and the [FAQ](https://brindola.com/en/faq/) cover the rest.
 
 ## Get in touch
 
