@@ -40,7 +40,7 @@
 
 ## For restaurant groups
 
-Several venues, several brands, one menu published to every venue: **[Brindola Backoffice](https://brindola.com/en/backoffice/)** runs the group — the catalog, staff and rotas with checklists on a phone, reports across venues, shared customers and loyalty, central purchasing — while each venue keeps trading on its own, offline included. It comes with Enterprise and is set up with you; a group with a backoffice of its own connects it through Brindola's documented sync protocol instead. [Brindola for groups and enterprises](https://brindola.com/en/partners/).
+Several venues, several brands, one menu published to every venue: **[Brindola Backoffice](https://brindola.com/en/backoffice/)** runs the group — the catalog, staff and rotas with checklists on a phone, reports across venues, shared customers and loyalty, central purchasing — while each venue keeps trading on its own, offline included. It is available on any plan, priced per connected venue, and set up with you; a group with a backoffice of its own connects it through Brindola's documented sync protocol instead. [Brindola for groups and enterprises](https://brindola.com/en/partners/).
 
 ## Get started
 
